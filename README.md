@@ -5,7 +5,7 @@ A simple card-based splash page template
 I find myself making a lot of quick and dirty splash pages based on a single, centered card layout. This is a simple template that I can use as a foundation.
 
 ## But why?
-Never spend five minutes doing something that you can spend five hours failing to automate it.
+Never spend five minutes doing something when you can spend five hours failing to automate it.
 
 ## There are already so many of these.
 I know, but this is one is *mine*.
